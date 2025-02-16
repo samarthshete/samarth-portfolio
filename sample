@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Samarth Shete - Portfolio</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+
+	<link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+	<link rel="stylesheet" href="css/animate.css">
+
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/owl.theme.default.min.css">
+	<link rel="stylesheet" href="css/magnific-popup.css">
+
+	<link rel="stylesheet" href="css/aos.css">
+
+	<link rel="stylesheet" href="css/ionicons.min.css">
+
+	<link rel="stylesheet" href="css/flaticon.css">
+	<link rel="stylesheet" href="css/icomoon.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+
+
+	<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light site-navbar-target" id="ftco-navbar">
+		<div class="container">
+			<a class="navbar-brand" href="index.html"><span>S</span>amarth</a>
+			<!-- <a class="navbar-brand" href="index.html"><img src="images/signature.png" class="img-fluid" alt="Colorlib Template"></a> -->
+			<button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse"
+				data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="oi oi-menu"></span> Menu
+			</button>
+
+			<div class="collapse navbar-collapse" id="ftco-nav">
+				<ul class="navbar-nav nav ml-auto">
+					<li class="nav-item"><a href="#home-section" class="nav-link"><span>Home</span></a></li>
+					<li class="nav-item"><a href="#about-section" class="nav-link"><span>About</span></a></li>
+					<li class="nav-item"><a href="#resume-section" class="nav-link"><span>Resume</span></a></li>
+					<li class="nav-item"><a href="#services-section" class="nav-link"><span>Projects</span></a></li>
+					<!-- <li class="nav-item"><a href="#projects-section" class="nav-link"><span>Projects</span></a></li> -->
+					<!-- <li class="nav-item"><a href="#blog-section" class="nav-link"><span>My Blog</span></a></li> -->
+					<li class="nav-item"><a href="#contact-section" class="nav-link"><span>Contact</span></a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<section class="hero-wrap js-fullheight">
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="row no-gutters slider-text js-fullheight justify-content-center align-items-center">
+				<div class="col-lg-8 col-md-6 ftco-animate d-flex align-items-center">
+					<div class="text text-center">
+						<span class="subheading">Hey! I am</span>
+						<h1>Samarth Shete</h1>
+						<h2>I'm a
+							<span class="txt-rotate" data-period="2000"
+								data-rotate='[ "Software Developer", "MLOps Expert", "Data Scientist", "Web Developer", "Freelancer" ]'></span>
+						</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+		</div>
+		<div class="mouse">
+			<a href="#" class="mouse-icon">
+				<div class="mouse-wheel"><span class="ion-ios-arrow-round-down"></span></div>
+			</a>
+		</div>
+	</section>
+
+	<section class="ftco-about img ftco-section ftco-no-pt ftco-no-pb" id="about-section">
+		<div class="container">
+			<div class="row d-flex no-gutters">
+				<div class="col-md-6 col-lg-6 d-flex">
+					<div class="img-about img d-flex align-items-stretch">
+						<div class="overlay"></div>
+						<div class="img d-flex align-self-stretch align-items-center"
+							style="background-image:url(images/self_pic.jpg);">
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-6 pl-md-5 py-5">
+					<div class="row justify-content-start pb-3">
+						<div class="col-md-12 heading-section ftco-animate">
+							<h1 class="big">About</h1>
+							<h2 class="mb-4">About Me</h2>
+							<p> As a Master’s student in Computer Science at George Washington University, I thrive at the intersection of Machine Learning, Data Science, MLOps, and Full-Stack Web Development. With a strong foundation built through hands-on experience and internships, I specialize in developing scalable AI solutions, fine-tuning state-of-the-art Large Language Models (LLMs), and integrating AI into seamless web applications.
+
+								💡 What I Bring to the Table:
+
+										AI & ML Expertise: Proficient in Python, TensorFlow, PyTorch, and cloud platforms like AWS, I have led teams to deploy AI models at scale and optimize their performance for real-world impact.
+										MLOps & Deployment: Skilled in CI/CD, Docker, Kubernetes, and model monitoring, ensuring smooth deployment and maintenance of ML models.
+										Full-Stack Web Development: Experienced in React, Node.js, and database management, I build intuitive web applications that bring AI innovations to life.
+										Problem-Solver & Innovator: Passionate about leveraging data-driven insights to solve real-world challenges, from predictive analytics to automation.
+								
+										I am actively seeking a Summer 2024 internship or full-time role in Data Science, MLOps, or Full-Stack Web Development, where I can apply my skills, collaborate with dynamic teams, and drive innovation. Let's connect and build the future of tech together! 🚀</p>
+						</div>
+					</div>
+					<div class="counter-wrap ftco-animate d-flex mt-md-3">
+						<div class="text mr-3"> <!-- Add margin to the right for spacing -->
+							<p><a href="https://drive.google.com/file/d/1jGjTqkowSPyIwMYomNn1fAIr7smCk5Bh/view?usp=sharing" class="btn btn-primary py-3 px-3">Download CV</a></p>
+						</div>
+						<ul class="ftco-footer-social list-unstyled d-flex align-items-center mt-0">
+							<li class="ftco-animate mr-2"><a href="https://www.linkedin.com/in/chelsi-jain-7b0734192/"><span class="icon-linkedin"></span></a></li>
+							<li class="ftco-animate mr-2"><a href="https://github.com/Chelsi-create"><span class="icon-github"></span></a></li>
+							<li class="ftco-animate mr-2"><a href="https://x.com/ChelsiJ99200294"><span class="icon-twitter"></span></a></li>
+							<li class="ftco-animate mr-2"><a href="#"><span class="icon-facebook"></span></a></li>
+							<li class="ftco-animate"><a href="https://www.instagram.com/chelsijain_25/"><span class="icon-instagram"></span></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- <section class="ftco-section ftco-partner">
+    	<div class="container">
+    		<div class="row">
+    			<div class="col-sm ftco-animate">
+    				<a href="#" class="partner"><img src="images/partner-1.png" class="img-fluid" alt="Colorlib Template"></a>
+    			</div>
+    			<div class="col-sm ftco-animate">
+    				<a href="#" class="partner"><img src="images/partner-2.png" class="img-fluid" alt="Colorlib Template"></a>
+    			</div>
+    			<div class="col-sm ftco-animate">
+    				<a href="#" class="partner"><img src="images/partner-3.png" class="img-fluid" alt="Colorlib Template"></a>
+    			</div>
+    			<div class="col-sm ftco-animate">
+    				<a href="#" class="partner"><img src="images/partner-4.png" class="img-fluid" alt="Colorlib Template"></a>
+    			</div>
+    			<div class="col-sm ftco-animate">
+    				<a href="#" class="partner"><img src="images/partner-5.png" class="img-fluid" alt="Colorlib Template"></a>
+    			</div>
+    		</div>
+    	</div>
+    </section> -->
+
+	<section class="ftco-section ftco-no-pb goto-here" id="resume-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3">
+					<nav id="navi">
+						<ul>
+							<li><a href="#page-1">Education</a></li>
+							<li><a href="#page-2">Experience</a></li>
+							<li><a href="#page-3">Skills</a></li>
+							<li><a href="#page-4">Awards</a></li>
+						</ul>
+					</nav>
+				</div>
+				<div class="col-md-9">
+					<div id="page-1" class="page one">
+						<h2 class="heading">Education</h2>
+						<div class="resume-wrap d-flex ftco-animate">
+							<div class="icon d-flex align-items-center justify-content-center">
+								<span class="flaticon-ideas"></span>
+							</div>
+							<div class="text pl-3">
+								<span class="date">2024-2026</span>
+                    			<h2>Master of Science in Computer Science</h2>
+                    			<span class="position">The George Washington University</span>
+								<p>Pursuing a Master of Science in Computer Science with a GPA of 3.77/4.0, I specialize
+									in Machine Learning, Data Science, and MLOps. My coursework includes advanced
+									studies in algorithms, deep learning, and natural language processing, preparing me
+									for cutting-edge technological innovation and research.</p>
+							</div>
+						</div>
+						<div class="resume-wrap d-flex ftco-animate">
+							<div class="icon d-flex align-items-center justify-content-center">
+								<span class="flaticon-ideas"></span>
+							</div>
+							<div class="text pl-3">
+								<span class="date">2017-2021</span>
+                    			<h2>Bachelor of Technology in Computer Engineering</h2>
+                    			<span class="position">Sanjay Bhokare Group of Institute, Miraj</span>
+								<p>Graduated with a Bachelor of Science in Computer Science, achieving a GPA of
+									3.57/4.0. My education here provided a strong foundation in data structures, machine
+									learning, and data science, and included hands-on projects in full-stack development
+									and AI model deployment.</p>
+							</div>
+						</div>
+					</div>
+
+					<div id="page-2" class="page two">
+						<h2 class="heading">Experience</h2>
+						<div class="resume-wrap d-flex ftco-animate">
+							<div class="icon d-flex align-items-center justify-content-center">
+								<span class="flaticon-ideas"></span>
+							</div>
+							 <div class="text pl-3">
+    <span class="date">March 2023 – Sept 2023</span>
+    <h2>Machine Learning Intern</h2>
+    <span class="position">VG Computers, Sangli, India</span>
+    <ul>
+        <li>Gathered, organized, and analyzed large datasets to train machine learning models, improving predictive accuracy by 30% for credit card fraud detection.</li>
+        <li>Implemented a Recommendation System for e-commerce with collaborative filtering, increasing product recommendation relevance by 25% and boosting user engagement.</li>
+        <li>Conducted data annotation and preprocessing, ensuring high-quality datasets for AI model training.</li>
+    </ul>
+</div>
+						</div>
+						<div class="resume-wrap d-flex ftco-animate">
+							<div class="icon d-flex align-items-center justify-content-center">
+								<span class="flaticon-ideas"></span>
+							</div>
+							<div class="text pl-3">
+    <span class="date">Oct 2019 – Jan 2020</span>
+    <h2>Trainee Python Developer</h2>
+    <span class="position">H Globe Technology, Sangli, India</span>
+    <ul>
+        <li>Collaborated with a team to develop Python-based automation scripts for a smart home automation system using IoT, resulting in 20% energy savings and significantly enhancing user convenience.</li>
+        <li>Designed data pipelines and structured databases to improve API interactions.</li>
+        <li>Provided customer support, troubleshooting issues, and ensuring timely resolution for clients, which helped improve overall user experience.</li>
+    </ul>
+</div>
+						</div>
+						<div class="resume-wrap d-flex ftco-animate">
+							<div class="icon d-flex align-items-center justify-content-center">
+								<span class="flaticon-ideas"></span>
+							</div>
+							 <div class="text pl-3">
+    <span class="date">Jan 2019 – Feb 2020</span>
+    <h2>ASP.NET Intern</h2>
+    <span class="position">Tecspeak IT Solutions, Sangli, India</span>
+    <ul>
+        <li>Enhanced the Hospital Management System website using ASP.NET MVC, improving user experience and reducing page load time by 20%.</li>
+        <li>Improved database organization by designing and executing complex SQL queries, including table creation, stored procedures, and views, resulting in 20% faster data retrieval and improved operational efficiency.</li>
+        <li>Collaborated with a cross-functional team to implement new features, ensuring projects met deadlines and quality standards.</li>
+    </ul>
+</div>
+						</div>
+						 
+					</div>
+					<div id="page-3" class="page three">
+						<h2 class="heading">Skills</h2>
+
+						<div class="row">
+							<div class="col-md-6 animate-box">
+								<div class="progress-wrap ftco-animate">
+									<h3>Data Structure and Algorithms</h3>
+									<h3>HTML, CSS, Javascript</h3>
+									<h3>Python</h3>
+									<h3>SQL</h3>
+									<h3>AWS</h3>
+									<h3>Docker</h3>
+									<h3>MLFlow, Github Actions</h3>
+								</div>
+							</div>
+							<div class="col-md-6 animate-box">
+								<div class="progress-wrap ftco-animate">
+									<h3>Web Developement</h3>
+									<h3>Flask</h3>
+									<h3>React</h3>
+									<h3>Angular</h3>
+									<h3>NodeJS</h3>
+									<h3>MongoDB</h3>
+									<h3>Google Firebase</h3>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="page-4" class="page four">
+						<h2 class="heading">Extracurricular</h2>
+						<div class="resume-wrap d-flex ftco-animate">
+							<div class="icon d-flex align-items-center justify-content-center">
+								<span class="flaticon-ideas"></span>
+							</div>
+							<div class="text pl-3">
+								<!-- <span class="date">2014-2015</span> -->
+								<h2>Campus Engagement Lead</h2>
+    <span class="position">Akhil Bharatiya Vidyarthi Parishad (ABVP), India</span>
+    <ul>
+        <li>Planned 10+ campus-wide events, managing budgets and stakeholders.</li>
+        <li>Led a 15-member team, boosting student engagement by 25%.</li>
+        <li>Facilitated student-faculty communication, improving satisfaction by 20%.</li>
+    </ul>
+							</div>
+						</div>
+						<div class="resume-wrap d-flex ftco-animate">
+							<div class="icon d-flex align-items-center justify-content-center">
+								<span class="flaticon-ideas"></span>
+							</div>
+							<div class="text pl-3">
+								<!-- <span class="date">2014-2015</span> -->
+								<h2>Student Coordinator</h2>
+    <span class="position">Coding Club & Student Organizations, SBGI Sangli, India</span>
+    <ul>
+        <li>Organized 13+ workshops on coding, careers, and academics for 50+ students.</li>
+        <li>Executed 5+ university-wide events, increasing student participation by 30%.</li>
+        <li>Coordinated peer mentorship, improving academic performance for 85% of students.</li>
+    </ul>
+							</div>
+						</div>
+						<div class="resume-wrap d-flex ftco-animate">
+							<div class="icon d-flex align-items-center justify-content-center">
+								<span class="flaticon-ideas"></span>
+							</div>
+							<div class="text pl-3">
+								<!-- <span class="date">2014-2015</span> -->
+								<h2>Event Coordinator</h2>
+									<span class="position">University Cultural Festival, SBGI Sangli, India</span>
+									<ul>
+										<li>Managed logistics and sponsorships, increasing funding by 30%.</li>
+										<li>Cut event expenses by 15% through vendor contract optimization.</li>
+										<li>Led a 20-member team to organize a festival with 2000+ attendees.</li>
+									</ul>
+							</div>
+						</div>
+						<div class="resume-wrap d-flex ftco-animate">
+							<div class="icon d-flex align-items-center justify-content-center">
+								<span class="flaticon-ideas"></span>
+							</div>
+							<div class="text pl-3">
+								<!-- <span class="date">2014-2015</span> -->
+								<h2>Student Administrative Assistant</h2>
+									<span class="position">Sanjay Bhokare College Of Engineering, Sangli, India</span>
+									<ul>
+										<li>Assisted 50+ students weekly with university processes, maintaining 95% satisfaction.</li>
+										<li>Streamlined administrative tasks, reducing response time by 15%.</li>
+										<li>Managed student databases with 100% accuracy.</li>
+									</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="ftco-section" id="services-section">
+		<div class="container-fluid px-md-5">
+			<div class="row justify-content-center py-5 mt-5">
+				<div class="col-md-12 heading-section text-center ftco-animate">
+					<h1 class="big big-2">Projects</h1>
+					<h2 class="mb-4">Projects</h2>
+					<p>Check out more amazing projects on my <a href="https://github.com/Chelsi-create">GitHub</a></p>
+				</div>
+			</div>
+		</div>
+		<div class="project-section">
+    <div class="project-image">
+        <img src="images/jobtrackr.png" alt="JobTrackr Screenshot">
+    </div>
+    <div class="project-details">
+        <h3 class="project-title">GitFetch : Exploring GitHub Profiles</h3>
+        <p class="project-date-location">React, Node.js, Express.js, MongoDB</p>
+        <p class="project-description">
+           The Git Fetcher Project is an innovative tool designed to fetch and display GitHub user profiles and repositories in a user-friendly interface. This project leverages the GitHub API to provide a comprehensive view of a user's GitHub presence, including detailed statistics, repository listings, and more.
+        </p>
+		<p class="project-description">Features:
+
+Advanced search and comparison tools
+
+Real-time availability and pricing
+
+Secure, streamlined booking process</p>
+        <div class="project-tech">
+            <span class="tech-tag">React</span>
+            <span class="tech-tag">Node.js</span>
+            <span class="tech-tag">Express.js</span>
+            <span class="tech-tag">MongoDB</span>
+        </div>
+    </div>
+</div>
+		<div class="project-section">
+    <div class="project-details">
+        <h3 class="project-title">ReadFlow</h3>
+        <p class="project-date-location">JavaScript, HTML, CSS, Chrome API, Gemini Nano AI, Prompt API</p>
+        <p class="project-description">
+            Built a privacy-first Chrome extension that adapts web content in real time, enhancing readability without altering integrity. 
+            Designed adaptive text processing modes tailored for ADHD, dyslexic users, and general readability, improving comprehension by 35%. 
+            Engineered an ultra-lightweight, offline-first architecture ensuring seamless performance with 99.9% uptime.
+        </p>
+        <div class="project-tech">
+            <span class="tech-tag">JavaScript</span>
+            <span class="tech-tag">Chrome API</span>
+            <span class="tech-tag">Gemini Nano AI</span>
+            <span class="tech-tag">Prompt API</span>
+        </div>
+    </div>
+    <div class="project-image">
+        <img src="images/readflow.png" alt="ReadFlow Screenshot">
+    </div>
+</div>
+
+<div class="project-section">
+    <div class="project-image">
+        <img src="images/jobtrackr.png" alt="JobTrackr Screenshot">
+    </div>
+    <div class="project-details">
+        <h3 class="project-title">Car Rental Hub – Your Ride, Your Way!</h3>
+        <p class="project-date-location">React, Node.js, Express.js, MongoDB</p>
+        <p class="project-description">
+           Car Rental Hub is a modern, easy-to-use platform that lets users search, compare, and book vehicles instantly.
+        </p>
+		<p class="project-description">Features:
+
+Advanced search and comparison tools
+
+Real-time availability and pricing
+
+Secure, streamlined booking process</p>
+        <div class="project-tech">
+            <span class="tech-tag">React</span>
+            <span class="tech-tag">Node.js</span>
+            <span class="tech-tag">Express.js</span>
+            <span class="tech-tag">MongoDB</span>
+        </div>
+    </div>
+</div>
+		<div class="project-section">
+    <div class="project-details">
+        <h3 class="project-title">Little Lemon Restaurant</h3>
+        <p class="project-date-location">JavaScript, HTML, CSS, Chrome API, Gemini Nano AI, Prompt API</p>
+        <p class="project-description">
+            The Little Lemon Restaurant project reimagines the online booking experience. This sleek, responsive web application simplifies table reservations, making dining out a breeze.
+        </p>
+		<p class="project-description">
+			Highlights:
+
+				Intuitive, user-friendly interface
+
+					Real-time availability updates
+
+				Seamless API integration for instant confirmations
+		</p>
+		<p class="project-description">Result: Reduced reservation processing time by 30%, enhancing customer satisfaction.</p>
+        <div class="project-tech">
+            <span class="tech-tag">JavaScript</span>
+            <span class="tech-tag">Chrome API</span>
+            <span class="tech-tag">Gemini Nano AI</span>
+            <span class="tech-tag">Prompt API</span>
+        </div>
+    </div>
+    <div class="project-image">
+        <img src="images/readflow.png" alt="ReadFlow Screenshot">
+    </div>
+</div>
+
+<div class="project-section">
+    <div class="project-image">
+        <img src="images/jobtrackr.png" alt="JobTrackr Screenshot">
+    </div>
+    <div class="project-details">
+        <h3 class="project-title">JobTrackr</h3>
+        <p class="project-date-location">React, Node.js, Express.js, MongoDB</p>
+        <p class="project-description">
+            Developed a full-stack job tracking web app to help users manage applications efficiently. 
+            Designed an intuitive UI with real-time tracking and status updates. 
+            Integrated RESTful APIs for seamless data retrieval and secure authentication, ensuring a smooth user experience.
+        </p>
+        <div class="project-tech">
+            <span class="tech-tag">React</span>
+            <span class="tech-tag">Node.js</span>
+            <span class="tech-tag">Express.js</span>
+            <span class="tech-tag">MongoDB</span>
+        </div>
+    </div>
+</div>
+
+<div class="project-section">
+    <div class="project-details">
+        <h3 class="project-title">Twitter Sentiment Analysis</h3>
+        <p class="project-date-location">Machine Learning, Python, TensorFlow, Flask</p>
+        <p class="project-description">
+            Built a sentiment analysis model that classifies tweets with over 80% accuracy. 
+            Used Random Forest Classifier and data visualization techniques to analyze 0.4 million+ tweets. 
+            Earned Runner-Up in a project competition for its real-world impact and accuracy.
+        </p>
+        <div class="project-tech">
+            <span class="tech-tag">Python</span>
+            <span class="tech-tag">TensorFlow</span>
+            <span class="tech-tag">Flask</span>
+            <span class="tech-tag">Machine Learning</span>
+        </div>
+    </div>
+    <div class="project-image">
+        <img src="https://media.licdn.com/dms/image/v2/C5612AQERP5yD4Ov6Fw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1538479344425?e=2147483647&v=beta&t=CLi_SbWfTeHnzi0ZRLL6VCebuyeN15wemvV3nwp6oKE" alt="Twitter Sentiment Analysis Screenshot">
+    </div>
+</div>
+
+<div class="project-section">
+    <div class="project-image">
+        <img src="images/covid19-analysis.png" alt="Covid19 Analysis Screenshot">
+    </div>
+    <div class="project-details">
+        <h3 class="project-title">Covid-19 Analysis & Visualization</h3>
+        <p class="project-date-location">Machine Learning, Python, TensorFlow, Pandas</p>
+        <p class="project-description">
+            Designed an analytical tool to study COVID-19’s impact in India using machine learning and data visualization. 
+            Provided key insights on trends, recoveries, and fatality rates through statistical analysis.
+        </p>
+        <div class="project-tech">
+            <span class="tech-tag">Python</span>
+            <span class="tech-tag">TensorFlow</span>
+            <span class="tech-tag">Pandas</span>
+            <span class="tech-tag">Data Visualization</span>
+        </div>
+    </div>
+</div>
+<div class="project-section">
+    <div class="project-details">
+        <h3 class="project-title">SmartHire AI </h3>
+        <p class="project-date-location">Python | Flask | SQLAlchemy | MongoDB | Hugging Face NLP</p>
+        <p class="project-description">
+           SmartHire AI is an innovative recruitment platform that harnesses the power of AI to transform the hiring process. By generating tailored interview questions based on candidate CVs and job descriptions, it significantly enhances hiring efficiency.
+        </p>
+		<p class="project-description">
+			Features:
+			AI-Driven Question Generation
+			Automated Candidate Evaluation
+			Scalable API Design
+		</p>
+        <div class="project-tech">
+            <span class="tech-tag">Python</span>
+            <span class="tech-tag">TensorFlow</span>
+            <span class="tech-tag">Flask</span>
+            <span class="tech-tag">Machine Learning</span>
+        </div>
+    </div>
+    <div class="project-image">
+        <img src="https://media.licdn.com/dms/image/v2/C5612AQERP5yD4Ov6Fw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1538479344425?e=2147483647&v=beta&t=CLi_SbWfTeHnzi0ZRLL6VCebuyeN15wemvV3nwp6oKE" alt="Twitter Sentiment Analysis Screenshot">
+    </div>
+</div>
+
+	<!-- <section class="ftco-section ftco-hireme img" style="background-image: url(images/bg_1.jpg)">
+		<div class="overlay"></div> -->
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-md-7 ftco-animate text-center">
+					<h2><b>I'm <span>Available</span> for freelancing</b></h2>
+					<p>I am also available for freelancing, offering expertise in Machine Learning, Data Science, MLOps,
+						and Full-Stack Web Development to help solve complex problems and drive technological
+						advancements.</p>
+					<p class="mb-0"><a href="#contact-section" class="btn btn-primary py-3 px-5">Hire me</a></p>
+				</div>
+			</div>
+		</div>
+	<!-- </section> -->
+
+	<section class="ftco-section contact-section ftco-no-pb" id="contact-section">
+		<div class="container">
+			<div class="row justify-content-center mb-5 pb-3">
+				<div class="col-md-7 heading-section text-center ftco-animate">
+					<h1 class="big big-2">Contact</h1>
+					<h2 class="mb-4">Contact Me</h2>
+					<p>If you want to know more about my experiences and journey, or just talk in general, get in touch! ✌️</p>
+				</div>
+			</div>
+
+			<div class="row no-gutters block-9">
+				<div class="col-md-6 order-md-last d-flex">
+					<form action="https://api.web3forms.com/submit" method="POST" class="bg-light p-4 p-md-5 contact-form">
+						<input type="hidden" name="access_key" value="6c51290e-28af-4041-aad2-a5c54e672b51">
+
+						<div class="form-group">
+							<input type="text" name = "name" class="form-control" placeholder="Your Name">
+						</div>
+						<div class="form-group">
+							<input type="text" name = "email" class="form-control" placeholder="Your Email">
+						</div>
+						<div class="form-group">
+							<input type="text" name = "subject" class="form-control" placeholder="Subject">
+						</div>
+						<div class="form-group">
+							<textarea name="message" id="" cols="30" rows="7" class="form-control"
+								placeholder="Message"></textarea>
+						</div>
+						<div class="form-group">
+							<input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
+						</div>
+					</form>
+
+				</div>
+
+				<div class="col-md-6 d-flex">
+					<div class="img" style="background-image: url(images/contact2.jpg);"></div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfPohVnQr8ChAcd-S9HHyqxTzuw2Cpog4KCRU4GW3-zd7wA4w/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
+
+
+	<footer class="ftco-footer ftco-section">
+		<div class="container">
+			<div class="row mb-5">
+				<div class="col-md">
+					<div class="ftco-footer-widget mb-4">
+						<h2 class="ftco-heading-2">About</h2>
+						<p>MS CS @ George Washington University | Actively Seeking '24 Internship | Web Developer | MLOps Expert | End-to-End Solution Builder | Data Science enthusiast</p>
+						<ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
+							<li class="ftco-animate"><a href="https://www.linkedin.com/in/chelsi-jain-7b0734192/"><span class="icon-linkedin"></span></a></li>
+							<li class="ftco-animate"><a href="https://github.com/Chelsi-create"><span class="icon-github"></span></a></li>
+							<li class="ftco-animate"><a href="https://x.com/ChelsiJ99200294"><span class="icon-twitter"></span></a></li>
+							<li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+							<li class="ftco-animate"><a href="https://www.instagram.com/chelsijain_25/"><span class="icon-instagram"></span></a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-md">
+					<div class="ftco-footer-widget mb-4">
+						<h2 class="ftco-heading-2">Contact</h2>
+						<p>Email - samarth.shete@gwu.edu</p>
+					</div>
+				</div>
+				<div class="col-md">
+					<div class="ftco-footer-widget mb-4">
+						<h2 class="ftco-heading-2">Services</h2>
+						<ul class="list-unstyled">
+							<li><span class="icon-long-arrow-right mr-2"></span>Machine Learning</li>
+							<li><span class="icon-long-arrow-right mr-2"></span>Data Science</li>
+							<li><span class="icon-long-arrow-right mr-2"></span>Data Analysis</li>
+							<li><span class="icon-long-arrow-right mr-2"></span>MLOps Services</li>
+							<li><span class="icon-long-arrow-right mr-2"></span>Web Development</li>
+							 
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12 text-center">
+
+					<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+						Copyright &copy;
+						<script>document.write(new Date().getFullYear());</script> All rights reserved | This template
+						is made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a
+							href="https://colorlib.com" target="_blank">Colorlib</a>
+						<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+
+
+	<!-- loader -->
+	<div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px">
+			<circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" />
+			<circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10"
+				stroke="#F96D00" />
+		</svg></div>
+
+
+	<script src="js/jquery.min.js"></script>
+	<script src="js/jquery-migrate-3.0.1.min.js"></script>
+	<script src="js/popper.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery.easing.1.3.js"></script>
+	<script src="js/jquery.waypoints.min.js"></script>
+	<script src="js/jquery.stellar.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/aos.js"></script>
+	<script src="js/jquery.animateNumber.min.js"></script>
+	<script src="js/scrollax.min.js"></script>
+
+	<script src="js/main.js"></script>
+
+</body>
+
+</html>
